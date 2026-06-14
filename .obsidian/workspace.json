@@ -11,17 +11,26 @@
             "id": "59ac3e2fb6b2a559",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "EtherCAT-Notes/认识ECAT.md",
-                "mode": "source",
-                "source": false
+                "file": "EtherCAT-Notes/docs/Pasted image 20260614032644.png"
               },
-              "icon": "lucide-file",
-              "title": "认识ECAT"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260614032644"
+            }
+          },
+          {
+            "id": "bc4b086a60834ed9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EtherCAT-Notes/认识ECAT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +112,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "认识ECAT 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +121,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EtherCAT-Notes/认识ECAT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "认识ECAT 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -156,13 +163,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EtherCAT-Notes/认识ECAT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "认识ECAT 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -184,12 +190,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59ac3e2fb6b2a559",
+  "active": "bc4b086a60834ed9",
   "lastOpenFiles": [
+    "SPD-Notes/LM5069 芯片完整讲解.md",
+    "SPD-Notes/电路设计.md",
+    "SPD-Notes/docs/RM_SPD_3D.png",
+    "SPD-Notes/docs/RM_SPD_Image.jpg",
+    "SPD-Notes/docs/Pasted image 20260614173708.png",
+    "SPD-Notes/docs/lm5069数据手册.pdf",
+    "SPD-Notes/docs/RM_SPD/RM_SPD_SCH.jpg",
+    "SPD-Notes/docs/RM_SPD/RM_SPD_PCB.png",
+    "SPD-Notes/docs/RM_Pre_Charge/RM_Pre_Charge_SCH.jpg",
+    "SPD-Notes/docs/RM_Pre_Charge/RM_Pre_Charge_PCB.png",
+    "SPD-Notes/docs/RM_SPD",
+    "SPD-Notes/docs/RM_Pre_Charge",
+    "SPD-Notes/docs",
+    "EtherCAT-Notes/ECAT 运行原理与系统组成.md",
+    "EtherCAT-Notes/EtherCAT 协议传输机制与优缺点.md",
+    "EtherCAT-Notes/EtherCAT学习目录.md",
+    "EtherCAT-Notes/docs/Pasted image 20260614032501.png",
+    "EtherCAT-Notes/docs/Pasted image 20260614032529.png",
+    "EtherCAT-Notes/docs/Pasted image 20260614032644.png",
+    "EtherCAT-Notes/docs",
+    "EtherCAT-Notes/新建文件夹",
     "EtherCAT-Notes/传统以太网用于现场总线的 3 大性能痛点梳理.md",
-    "EtherCAT-Notes/工业以太网 & 实时以太网.md",
     "EtherCAT-Notes/认识ECAT.md",
-    "Obsidian-Notes/README.md",
-    "Obsidian-Notes"
+    "未命名",
+    "SPD-Notes/防浪涌笔记.md",
+    "~$表格_20260614.xlsx",
+    "表格_20260614.xlsx",
+    "SPD-Notes",
+    "EtherCAT-Notes/工业以太网 & 实时以太网.md",
+    "Obsidian-Notes/README.md"
   ]
 }
